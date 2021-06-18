@@ -1,0 +1,10 @@
+
+.headermain{
+    display: flex;
+    justify-content: space-between
+}
+ .nav-item :link { text-decoration: none; color: white }
+ .nav-item :visited { text-decoration: none; color: white }
+ .nav-item :hover { text-decoration: none; color: white }
+ .nav-item :active { text-decoration: none; color: white }
+ 
